@@ -1,0 +1,4 @@
+{
+    "lid_open_command": "echo Lid is open",
+    "lid_close_command": "systemctl suspend"
+}
